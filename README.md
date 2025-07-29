@@ -1,20 +1,13 @@
-# 🩸 Blood Bank Management System (Flutter)
+## 🩸 App Screenshots
 
-A complete Flutter application for managing blood donations and requests. This project aims to streamline blood donor registration, blood requests, and overall blood bank operations.
+| Login | Available Donors |
+|-------|------------------|
+| ![Login](assets/login.png) | ![Available Donors](assets/availabledonors.png) |
 
----
+| Nearby Donors | Request for Blood |
+|---------------|-------------------|
+| ![Nearby Donors](assets/nearbydonors.png) | ![Request for Blood](assets/requestforblood.png) |
 
-## 📱 Screenshots
-
-| Login Screen | Dashboard | Donor List |
-|--------------|-----------|------------|
-| ![Login](assets/login.png) | ![Dashboard](assets/dashboard.png) | ![Donor List](assets/donor_list.png) |
-
-| Request Blood | Add Donor | Profile |
-|---------------|-----------|---------|
-| ![Request](assets/request_blood.png) | ![Add Donor](assets/add_donor.png) | ![Profile](assets/profile.png) |
-
----
 
 ## ✨ Features
 
