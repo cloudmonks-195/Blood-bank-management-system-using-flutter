@@ -1,16 +1,43 @@
-# blood_bank
+# 🩸 Blood Bank Management System (Flutter)
 
-A new Flutter project.
+A complete Flutter application for managing blood donations and requests. This project aims to streamline blood donor registration, blood requests, and overall blood bank operations.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+| Login Screen | Dashboard | Donor List |
+|--------------|-----------|------------|
+| ![Login](assets/login.png) | ![Dashboard](assets/dashboard.png) | ![Donor List](assets/donor_list.png) |
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+| Request Blood | Add Donor | Profile |
+|---------------|-----------|---------|
+| ![Request](assets/request_blood.png) | ![Add Donor](assets/add_donor.png) | ![Profile](assets/profile.png) |
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## ✨ Features
+
+- User Login & Registration
+- View available blood donors
+- Request for blood with location & type
+- Add new donor profiles
+- View blood bank dashboard
+- Firebase integration for auth & backend
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- [Flutter SDK](https://docs.flutter.dev/get-started/install)
+- Android Studio or VS Code
+- Firebase Project (Optional but recommended)
+
+### Setup
+
+```bash
+git clone https://github.com/cloudmonks-195/Blood-bank-management-system-using-flutter.git
+cd Blood-bank-management-system-using-flutter
+flutter pub get
